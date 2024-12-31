@@ -1,9 +1,0 @@
-course_id,name,credit_unit,core,is_mandatory
-101,Algorithms,3,Computer Science,Yes
-102,Data Structures,3,Computer Science,Yes
-103,Calculus,4,Mathematics,Yes
-104,Linear Algebra,4,Mathematics,Yes
-105,Machine Learning,3,Computer Science,No
-106,Probability,3,Mathematics,No
-107,Operating Systems,3,Computer Science,No
-108,Statistics,3,Mathematics,No

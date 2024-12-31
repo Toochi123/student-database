@@ -1,0 +1,7 @@
+product_id,name,category,stock
+1,Laptop,Electronics,10
+2,Phone,Electronics,5
+3,Notebook,Stationery,50
+4,Pen Set,Stationery,100
+5,Headphones,Electronics,25
+6,Printer,Office Supplies,0

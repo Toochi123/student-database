@@ -1,0 +1,4 @@
+customer_id,name,preference
+1,Alice,"['Electronics', 'Stationery']"
+2,Bob,"['Stationery', 'Office Supplies']"
+3,Charlie,"['Electronics']"
