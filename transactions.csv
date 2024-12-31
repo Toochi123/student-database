@@ -5,3 +5,4 @@ transaction_id,customer_id,product_id,quantity
 4,2,3,2
 5,2,4,1
 6,3,6,1
+7,2,6,10
