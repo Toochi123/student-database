@@ -7,7 +7,7 @@ user_id,purchase_date,amount_spend,items
 6,2024-09-06,250,orange juice
 1,2024-09-06,400,french bread
 2,2024-09-06,500,blueberry muffin
-1,2024-09-06,560,strawberry yoghurt
+1,2024-09-06,560,strawberry  yoghurt milk
 3,2024-09-13,350,mango smoothie
 4,2024-09-13,300,grilled fish
 5,2024-09-13,150,garlic bread
@@ -16,7 +16,7 @@ user_id,purchase_date,amount_spend,items
 7,2024-09-20,450,ice cream
 1,2024-09-20,600,spaghetti  chicken pack
 8,2024-09-20,500,cheese cubes
-1,2024-09-20,6900,barbecue ribs
+1,2024-09-20,6900,barbecue ribs cake
 9,2024-09-27,200,veggie salad
 10,2024-09-27,100,fruit platter
 11,2024-09-27,300,pineapple slices
@@ -32,11 +32,11 @@ user_id,purchase_date,amount_spend,items
 9,2024-10-18,200,dried apricots
 1,2024-10-18,200,cream cheese
 2,2024-10-18,6700,cranberry juice
-1,2024-10-18,900,roasted chicken thigh
+1,2024-10-18,900,roasted  chicken thigh
 3,2024-10-18,800,pickled onions
 9,2024-10-18,300,grilled steak
 9,2024-10-18,9423,smoked salmon
-1,2024-10-18,9854,corn tortilla
+1,2024-10-18,9854,corn  tortilla
 9,2024-10-18,9054,herbal tea
 4,2024-10-18,2398,lemon tart
 9,2024-10-18,2378,vanilla pudding
@@ -44,7 +44,7 @@ user_id,purchase_date,amount_spend,items
 9,2024-10-18,123,white bread
 2,2024-10-18,632,berry yogurt
 9,2024-10-18,630,salted chips
-1,2024-10-18,750,peanut  butter
+1,2024-10-18,750,peanut butter
 9,2024-10-18,500,orange marma lade
 15,2024-10-18,150,cinnamon  rolls grape
 12,2024-10-25,100,olive oil
