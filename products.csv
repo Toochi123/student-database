@@ -5,3 +5,22 @@ product_id,name,category,stock
 4,Pen Set,Stationery,100
 5,Headphones,Electronics,25
 6,Printer,Office Supplies,0
+7,Mouse,Electronics,30
+8,Desk Chair,Office Supplies,15
+9,Blanket,Beddings,40
+10,Sports Shoes,Sports,20
+11,Cooking Pot,Kitchen Utensils,50
+12,Desktop Computer,Compute Sets,8
+13,Server Rack,Office Equipments,12
+14,3D Printer,Office Supplies,5
+15,Welding Machine,Building Supplies,7
+16,Toolbox,Building Supplies,25
+17,Regional Printer,Regional Machines,4
+18,Conference Table,Office Supplies,6
+19,Bluetooth Speaker,Electronics,20
+20,Sticky Notes,Stationery,200
+21,Smart Watch,Electronics,10
+22,Gaming Chair,Office Supplies,9
+23,Electric Kettle,Kitchen Utensils,30
+24,Treadmill,Sports,4
+25,Whiteboard,Office Supplies,14
