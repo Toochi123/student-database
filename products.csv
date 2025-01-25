@@ -3,7 +3,7 @@ product_id,name,category,stock
 2,Phone,Electronics,5
 3,Notebook,Stationery,50
 4,Pen Set,Stationery,100
-5,Headphones,Electronics,25
+5,Headphones,Electronics,50
 6,Printer,Office Supplies,0
 7,Mouse,Electronics,30
 8,Desk Chair,Office Supplies,15
