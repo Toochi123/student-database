@@ -1,5 +1,5 @@
 id,replacement_id,template
-1,101,Hello %C%, your code is %B%
+1,101,"Hello %C%, your code is %B%"
 2,106,API:%I%
 3,104,Release: %F%
 4,109,Mode: %K%
