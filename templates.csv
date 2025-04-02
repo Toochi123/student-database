@@ -1,12 +1,5 @@
 id,replacement_id,template
-100,B,2000
-101,C,Service-%D%
-102,D,version-%E%
-103,E,2012
-104,F,final-%G%
-105,G,build
-106,H,api-%I%
-107,I,v1.0.%J%
-108,J,3
-109,K,Env-%L%
-110,L,prod
+1,101,Hello %C%, your code is %B%
+2,106,API:%I%
+3,104,Release: %F%
+4,109,Mode: %K%
