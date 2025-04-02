@@ -1,5 +1,12 @@
 id,replacement_id,template
-1,100,Hello %A%, your code is %B%.
-2,101,%C% is deployed.
-3,102,Nested: %X%
-4,103,Literal
+100,B,2000
+101,C,Service-%D%
+102,D,version-%E%
+103,E,2012
+104,F,final-%G%
+105,G,build
+106,H,api-%I%
+107,I,v1.0.%J%
+108,J,3
+109,K,Env-%L%
+110,L,prod
